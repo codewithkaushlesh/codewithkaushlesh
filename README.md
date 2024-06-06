@@ -1,4 +1,5 @@
 - 🔭 I’m currently working on Low Coding Tech
+- 🏫 I'm up with C/C++ and Java basic
 - 🌱 I’m currently learning Python Full Stack
 - 👯 I’m looking to collaborate on different developers to bring the ideas to working
 - 📫 I'm reachable at  kaushleshagarwal12@gmail.com
